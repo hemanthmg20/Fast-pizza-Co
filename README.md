@@ -16,7 +16,7 @@ Welcome to **Fast React Pizza Co.**, a simple and stylish pizza menu built using
 
 | Tool/Library     | How it's used                                                                 |
 |------------------|------------------------------------------------------------------------------|
-| **React**        | Used to build the SPA with components and manage UI rendering.               |
+| **React**        | Used to build the SPA(Single Page Application) with components and manage UI rendering.               |
 | **JavaScript (ES6+)** | For logic such as conditional rendering, props, and date handling.     |
 | **CSS3**         | For layout (Flexbox + Grid), styling, hover effects, and responsive design.  |
 | **Google Fonts** | "Roboto Mono" font was imported for a clean, readable look.                  |
